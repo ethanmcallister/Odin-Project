@@ -1,0 +1,20 @@
+unordered lists: order doesn't matter
+    <ul> element creates the list
+    <li> element creates each item of list
+    ex:
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+
+Ordered lists: order matters
+    <ol> element creates the list
+    <li> element creates each item of list
+    ex:
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
+    
